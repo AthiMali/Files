@@ -1,0 +1,1 @@
+he project focuses on working with files and string manipulation, the project consists of conditional logic and loops. The codes adhere to the PEP 8 style guide such as identifying or removing all syntax, runtime and logical errors from the code.
